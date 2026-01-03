@@ -1,5 +1,6 @@
 # Linear-Regression
 The Diabetes dataset contains clinical and biochemical data collected from diabetes patients to predict disease progression. It includes ten features: age, sex, body mass index (BMI), average blood pressure, and six blood serum measurements such as cholesterol and glucose levels, all standardized to zero mean and unit variance.
+
 Overview of the Orange tool's icon placement.
 <img width="786" height="612" alt="image" src="https://github.com/user-attachments/assets/fd72db14-64cb-4d01-a855-db2212706a16" />
 Scatter plots:
